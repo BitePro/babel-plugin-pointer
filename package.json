@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-pointer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Babel plugin that automatically adds cursor: pointer to elements with click events. Supports Vue 3 and React with intelligent CSS detection.",
   "main": "src/index.js",
   "exports": {
@@ -36,12 +36,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BitePro/babel-plugin-auto-cursor-pointer.git"
+    "url": "https://github.com/BitePro/babel-plugin-pointer.git"
   },
   "bugs": {
-    "url": "https://github.com/BitePro/babel-plugin-auto-cursor-pointer.git"
+    "url": "https://github.com/BitePro/babel-plugin-pointer.git"
   },
-  "homepage": "https://github.com/BitePro/babel-plugin-auto-cursor-pointer.git",
+  "homepage": "https://github.com/BitePro/babel-plugin-pointer.git",
   "author": "zhuqitao <zqt950828@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
